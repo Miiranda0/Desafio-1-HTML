@@ -1,0 +1,60 @@
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Desafio HTML - Módulo 01 - DIO.me</title>
+</head>
+<body>
+
+    <h1>Bem-vindo ao meu primeiro site em HTML!</h1>
+    <hr>
+
+    <h2>Sobre mim</h2>
+    <p>Olá! Meu nome é <strong>David Miranda</strong>. Tenho paixão por tecnologia e estou iniciando minha jornada como desenvolvedor web.</p>
+    <p>Este projeto faz parte do curso da <a href="https://dio.me" target="_blank">DIO.me</a>, onde estou aprendendo desde os conceitos básicos até os mais avançados do desenvolvimento web.</p>
+    <p>Estou focado em construir uma base sólida de conhecimento e colocar em prática tudo o que aprendo, como neste <mark>primeiro desafio com HTML</mark>.</p>
+
+    <h3>Minhas habilidades atuais</h3>
+    <ul>
+        <li><i>Lógica de programação</i> com foco em resolução de problemas</li>
+        <li><u>HTML5</u> para estruturação de páginas web</li>
+        <li><strong>Comunicação clara</strong> e aprendizado contínuo</li>
+        <li>Experiência com <abbr title="Automação Industrial">AI</abbr> a partir do curso técnico</li>
+    </ul>
+
+    <h4>Objetivos para os próximos meses</h4>
+    <ol>
+        <li>Aprofundar os conhecimentos em HTML e CSS</li>
+        <li>Iniciar projetos com <strong>JavaScript</strong> puro</li>
+        <li>Aprender sobre <u>versionamento de código</u> com Git e GitHub</li>
+        <li>Participar de bootcamps e projetos práticos em grupo</li>
+        <li>Criar um portfólio online com meus projetos</li>
+    </ol>
+
+    <h5>Frase inspiradora</h5>
+    <blockquote>"A melhor maneira de prever o futuro é criá-lo." – Peter Drucker</blockquote>
+    <p>Essas palavras me motivam todos os dias a <strong>seguir em frente</strong>, mesmo diante dos desafios.</p>
+
+    <h6>Curiosidades técnicas</h6>
+    <p>Você sabia que a água é representada pela fórmula química H<sub>2</sub>O? E que a área de um quadrado é dada por lado<sup>2</sup>?</p>
+    <p>Esses pequenos detalhes mostram como o <i>HTML pode representar até elementos científicos</i> em uma página!</p>
+
+    <hr>
+
+    <h2>Testando algumas tags adicionais</h2>
+    <p><font color="green">Este texto está em verde usando a tag &lt;font&gt; (ela é obsoleta, mas foi incluída para fins educacionais).</font></p>
+    <p>Durante meu aprendizado, percebi que <del>ignorar os fundamentos</del> não é uma boa ideia. Entender as bases faz toda a diferença!</p>
+    <p>Hoje aprendi o que significa <abbr title="HyperText Markup Language">HTML</abbr> e como ele é essencial para qualquer site.</p>
+
+    <h3>Links úteis</h3>
+    <ul>
+        <li><a href="https://dio.me" target="_blank">Plataforma DIO.me</a></li>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">Documentação oficial HTML</a></li>
+        <li><a href="https://www.w3schools.com/" target="_blank">W3Schools - Tutoriais de HTML</a></li>
+    </ul>
+
+    <hr>
+
+    <p><small>Este projeto faz parte do desafio do Módulo 01 do curso "Trilha HTML" da DIO.me.</small></p>
+
+</body>
+</html>
